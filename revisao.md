@@ -30,7 +30,8 @@ estabeelecidas.
 
 ## Estratégias de teste e cobertura de teste unitário
 Estratégia de teste de software fornece um roteiro que descreve os passos a ser executados como parte do teste, define quando são planejados e executados, o tempo e os recursos necessários. Ou seja, qualquer estratégia de teste deve incorporar planejamento dos testes, projeto de casos de teste, execuão dos testes, coleta e avaliação dos dados resultantes. Uma estratégia de teste deve ser felxivel ao ponto de promover uma abordagem de teste personalizada e rigida para estimular um planejamento razoavel e o acoampnhamento a medida que o projeto progride.
-> Teste é um conjunto de atividades que podem ser planejadas com antecedencia e executadas sistematicamente.
+> Teste é um conjunto de atividades que podem ser planejadas com antecedencia e executadas sistematicamente. Uma estratégia é desenvolvida pelo gerente do projeto, engenheiros de software e especialistas em testes
+> É importante que uma estratégi de teste possua os testes de baixo nível, necessários para verificar se eum pequeno segmento de codigo fonte foi implementado corretamente e os testes de alto nivel, que validam as funções principais do sistema de acordo com os requisitos do ccliente.
 ## CMMI e MPS-BR
 ## Categorização causa x efeito
 ## Testes alfa, beta e de aceitação
